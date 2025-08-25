@@ -3,6 +3,7 @@
 
 
 
+
 O projeto Um Mundo Melhor tem como objetivo conectar pessoas para que trabalhem juntas contra a poluição, incentivando a reciclagem e o consumo sustentável, reduzindo assim o impacto ambiental no planeta.
 
 * Objetivos:
