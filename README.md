@@ -1,4 +1,5 @@
-8c08696a-8410-49a3-8ee9-4d230609c34a
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f25f9339-ee43-4f65-a7d6-13f04c6d31fa" />
+
 
 🌍 Um Mundo Melhor
 
